@@ -1,0 +1,5 @@
+Vereinfachen Sie die zwei im Listing vorhandenen Comparator<String>-Implementierungen, 
+die auf JDK-7 basieren und 
+a) nach Länge und 
+b) case-insensitive 
+sortieren, durch den Einsatz von Lambdas.

@@ -1,0 +1,4 @@
+/*
+ * Aufgabe anspruchsvoll: Realisierung der rekursiven Variante der Fakultaetsfunktion via Lambda und
+ * funktionalem Interface java.util.function.IntFunction
+ */

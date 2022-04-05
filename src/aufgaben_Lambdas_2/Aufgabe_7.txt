@@ -1,0 +1,9 @@
+Befüllen Sie ein int[100] fortlaufend mit den Werten 0 ...9. Dadurch
+ergibt sich diese Wertebelegung:
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 ... 0 1 2 3 4 5 6 7 8 9
+
+Zur Kontrolle und zur Prüfung der korrekten Erzeugung werden exemplarisch die
+Werte mit einer Methode printRange(int[], int, int) ausgegeben.
+
+Hinweis: Arrays.parallelSet() und IntUnaryOperator. 
+Setzen Sie die Lambdas i -> i und i -> i % 10 ein.

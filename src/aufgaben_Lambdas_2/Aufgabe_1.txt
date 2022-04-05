@@ -1,0 +1,10 @@
+a) Formulieren Sie die Bedingungen "Zahl ist gerade", "Zahl ist positiv",
+"Zahl ist null" und "Wert ist null" als Predicate<Integer> und, sofern möglich,
+auch als IntPredicate. Prüfen Sie diese Prädikate mit verschiedenen Eingaben.
+
+b) Formulieren Sie die Bedingung "Wort kürzer als 4 Buchstaben" und
+prüfen Sie das damit realisierte Predicate<String> isShortWord.
+
+c) Kombinieren Sie die Prädikate wie folgt und prüfen Sie wieder:
+- Zahl ist positiv und Zahl ist gerade (Methode and()).
+- Zahl ist positiv und ungerade (Aufruf von negate()).

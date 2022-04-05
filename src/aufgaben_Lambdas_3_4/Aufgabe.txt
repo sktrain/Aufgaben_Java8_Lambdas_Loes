@@ -1,0 +1,5 @@
+/* Aufgabe:
+ * Erweiterung von Aufgabe 3:
+ * Speichern Sie die 4 Rechenarten (+ , - , *, /) mit Hilfe "intBinaryOperator" in einer Map 
+ * (respektive einem Enum) und verwenden Sie diese in der RechnerAnwendung.
+ */

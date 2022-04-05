@@ -1,0 +1,3 @@
+/* Aufgabe:
+ * Umstellung der ActionListener auf Lambdas
+ */

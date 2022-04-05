@@ -1,0 +1,5 @@
+Sortieren Sie eine Liste von Namen basierend der natürlichen Ordnung in Form von
+Comparable<String> und geben Sie diese auf der Konsole aus. 
+Eine bisherige gegebene Variante soll mit Lambda-Schreibweise vereinfacht werden.
+
+Es kann auch eine Methodenreferenz verwendet werden.

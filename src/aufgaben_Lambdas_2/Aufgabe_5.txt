@@ -1,0 +1,7 @@
+Modifizieren Sie eine Liste mit Namen, indem Sie dort all diejenigen Einträge verändern,
+die mit dem Buchstaben "M" beginnen: 
+Aus dem Eintrag "Michael" soll dann ">>MICHAEL<<" werden. 
+Code als Ausgangsbasis ist vorhanden.
+
+
+Hinweis: replaceAll aus dem Interface Collection

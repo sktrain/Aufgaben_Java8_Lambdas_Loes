@@ -1,0 +1,6 @@
+Für die gegebene Klasse Person soll die Bedingung "18 Jahre oder älter" mit einem Predicate<Person>
+realisiert werden:
+
+1. durch Aufruf von getAge() als Lambda und
+
+2. durch Aufruf von isAdult() mit Methodenreferenz.

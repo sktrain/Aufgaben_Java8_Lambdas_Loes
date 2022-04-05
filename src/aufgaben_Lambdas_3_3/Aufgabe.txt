@@ -1,0 +1,5 @@
+/* Aufgabe:
+ * Der Code für die Methode onPlus und onMinus ist ziemlich ähnlich. 
+ * Statt der beiden Methoden kann eine Methode onCalc verwendet werden, der die jeweilige
+ * Rechenoperation als Baustein vom Typ IntBinaryOperator übergeben wird.
+ */

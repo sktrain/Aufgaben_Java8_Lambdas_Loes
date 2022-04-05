@@ -1,0 +1,11 @@
+Sortieren Sie eine Menge von Strings und nutzen Sie
+dabei die mit JDK 8 neu eingeführten Erweiterungen in Form von 
+statischen und default Methoden im Interface Comparator.
+
+a) nach Länge des Strings aufsteigend (Hinweis: comparing())
+
+b) nach Länge und bei gleicher Länge alphabetisch  (Hinweis: thenComparing(), naturalOrder())
+
+c) nach Länge absteigend und bei gleicher Länge alphabetisch  (Hinweis: reversed())
+
+

@@ -1,0 +1,4 @@
+/* Aufgabe:
+ * Machen Sie die Reallokations-Strategie mit Hilfe von IntUnaryOperator variabel,
+ * indem dem Konstruktor die gewünschte Strategie übergeben wird.
+ */

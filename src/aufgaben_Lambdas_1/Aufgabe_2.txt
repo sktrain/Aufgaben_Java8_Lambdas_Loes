@@ -1,0 +1,9 @@
+﻿a) Schreiben Sie ein Runnable mit einem Lambda, der "Hello World" auf der Konsole ausgibt. Ein passender Start-Thread ist bereits vorhanden.
+
+
+b) Die zuvor erstellte Konsolenausgabe soll einen variablen Anteil bekommen.
+Wie kann man Werte oder Informationen an den Lambda übergeben?
+
+Hinweis 1: Variable außerhalb. Was ist bei lokalen Variablen zu bedenken?
+
+Hinweis 2: Nutzen Sie eine Methode "Runnable provideTextOuptut(String)". 

@@ -1,0 +1,8 @@
+/* Aufgabe:
+ * Umstellung des Codes auf Lambdas
+ * Kann die InterruptedException weitergereicht, sprich geworfen, werden?
+ * 
+ * Zusatzaufgabe (anspruchsvoll):
+ * kann mit den neuen Sprachmitteln ein generelles Exception-Wrapping von Checked auf Unchecked realisiert werden?
+ * Tip: Funktionales Interface für das Wrapping mit statischer Utility-Methode zur Ausführung
+ */

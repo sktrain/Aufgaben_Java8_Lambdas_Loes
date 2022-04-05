@@ -1,0 +1,5 @@
+Konvertieren Sie die anonymen Klassen vom Typ FileFilter in Lambdas. 
+Gegeben sind die zwei Implementierungen directoryFilter und pdf-FileFilter, die gem‰ﬂ ihrem Namen 
+a) Verzeichnisse und 
+b) PDF-Dateien 
+filtern.

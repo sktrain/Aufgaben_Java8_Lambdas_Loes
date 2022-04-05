@@ -1,0 +1,8 @@
+a) Löschen Sie aus einer Liste von Namen all diejenigen Einträge mit kurzem Namen. 
+Wandeln Sie dazu die gegebene externe in eine interne Iteration um.
+
+Hinweis: removeIf aus dem Interface Collection
+
+
+b) Wie könnte man die gezeigte Methode für verschiedene Auswahlkriterien
+allgemeingültiger gestalten?
